@@ -54,7 +54,8 @@ iba detail a backend, frontend listingu je zahrnuty v harrym potterovi
 	:: backend 4h
 	:: frontend 12h
 	
-## "one page" engine a animacie na scroll - engine na dynamicke nacitanie obsahu s animaciami pri kliknuti namiesto premserovania celej stranky, plus cele animacie co sa budu diat pocas toho ako clovek chodi strankou 
+## "one page" engine a animacie na scroll
+engine na dynamicke nacitanie obsahu s animaciami pri kliknuti namiesto premserovania celej stranky, plus cele animacie co sa budu diat pocas toho ako clovek chodi strankou 
 
 	:: backend 6h
 	:: frontend 12h 
@@ -69,4 +70,9 @@ iba detail a backend, frontend listingu je zahrnuty v harrym potterovi
 
 	:: 2h backend
 	
+## celkovo odhad
+	25h backend * 40€ = 1000€ 
+	70h frontend * €30€ = 2100€
+	===
+	3100€
 	
